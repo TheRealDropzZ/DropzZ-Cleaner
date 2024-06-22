@@ -3,7 +3,7 @@ This tool cleans your PC and makes it faster.
 
 Is your PC slow and you want it to be fast and tidy again? This code will help you clean and organize your system. But what can this code do? Let's go through each point:
 
-**Explorer**
+**Explorer:**
 Restarts your Windows Explorer. Only use if you have problems with it.
 
 **Winget:**
